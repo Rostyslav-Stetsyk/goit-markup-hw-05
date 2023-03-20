@@ -200,8 +200,6 @@ img {
     position: relative;
 }
 
-.nav.link:hover::after,
-.nav.link:focus::after,
 .link.current::after {
     content: "";
     display: block;
